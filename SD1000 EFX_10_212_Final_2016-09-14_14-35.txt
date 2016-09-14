@@ -1,0 +1,2 @@
+Kapitel 7.4 der Doku MIDI Anwendungsentwicklung zeigt wie im Panel alle Controls aktiviert werden können.
+Dies Implementierung betrifft auf die Panelversion: "SD1000 EFX_10_212_Final_2016-09-14_14-35 - SANDBOX - dim - FIX modtypes - enable undocumented controls - boost fix.panel"
